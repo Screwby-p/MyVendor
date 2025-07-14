@@ -36,7 +36,6 @@
     ],
     "defaults": {
         "packages": [
-            "https://raw.githubusercontent.com/h53h54h55/Syncler2/main/Manifest-Full.json"
             "https://raw.githubusercontent.com/h53h54h55/Syncler2/main/Manifest-Nyaa.json"
             "https://raw.githubusercontent.com/h53h54h55/Syncler2/main/Manifest-AnimeTosho.json"
             "https://raw.githubusercontent.com/h53h54h55/Syncler2/main/Manifest-AniDex.json"
